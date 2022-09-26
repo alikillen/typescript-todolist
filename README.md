@@ -1,3 +1,9 @@
+# Typescript Todo List App
+
+Built with typescript and react. Using snowpack bundler.
+
+From web dev simplified tutorial: https://www.youtube.com/watch?v=jBmrduvKl5w
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
